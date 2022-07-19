@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://rayanehajjar.github.io/404NotFound/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://https://devchallenges.io/solutions/TcgHW0cmTUk3I42u88Zc">
+    <a href="https://devchallenges.io/solutions/TcgHW0cmTUk3I42u88Zc">
       Solution
     </a>
     <span> | </span>
