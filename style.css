@@ -91,7 +91,7 @@
 
 @media (max-width: 688px) {
     .container {
-        padding-top: 5%;
+        padding-top: 10%;
     }
     .wrapper {
         flex-direction: column;
